@@ -1,4 +1,5 @@
 
+
 ## 1. WHAT IS THIS
 ## The following functions can be used to create a 
 ## "special object" (a list) that stores a matrix and 
